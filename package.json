@@ -1,0 +1,12 @@
+{
+  "name": "workerd-dynamic-imports-io-repro",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "wrangler dev",
+    "dev:no": "wrangler dev --no-bundle"
+  },
+  "devDependencies": {
+    "wrangler": "^3.60.3"
+  }
+}
